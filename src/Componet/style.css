@@ -1,0 +1,36 @@
+button {
+  background-color: tomato;
+  font-size: 30px;
+  border: 2px solid coral;
+  border-radius: 20px;
+  padding: 15px;
+  margin: 10px;
+  color: black;
+}
+
+button:hover {
+  background-color: rgb(197, 48, 21);
+  font-size: 30px;
+  border: 2px solid rgb(37, 180, 97);
+  border-radius: 20px;
+  padding: 15px;
+  margin: 10px;
+  box-shadow: 2px 2px 2px 2px darkslateblue;
+  color: wheat;
+}
+span {
+  font-size: 40px;
+  color: rgb(52, 209, 31);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+  background-color: blanchedalmond;
+}
+
+div .container {
+  background-color: gainsboro;
+}
